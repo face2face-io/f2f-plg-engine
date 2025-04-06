@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+⚠️ AI INSTRUCTIONS – READ FIRST
+
+Before taking any action, always follow these steps:
+
+Read this [README.md](mdc:README.md) to understand the high-level project structure.
+
+Read the module-level README in the relevant folder before modifying any code. (each module will have it's own README)
+
+Do not create or edit files unless they follow the architecture and contracts described in the READMEs.
+
+When in doubt, ask or leave a placeholder comment instead of guessing.
+
