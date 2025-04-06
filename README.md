@@ -141,8 +141,8 @@ This script will:
 
 - Each module is strictly responsible for one task.
 - Use `input.json` and `output.json` mocks inside each module folder to test/debug independently.
-- Don’t let AI generate across module boundaries without reading the READMEs.
+- Don't let AI generate across module boundaries without reading the READMEs.
 
 ---
 
-Let’s build ✨
+Let's build ✨
